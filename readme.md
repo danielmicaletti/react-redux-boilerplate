@@ -1,7 +1,19 @@
-#Git Commands
+#React w/ Redux Boilerplate
 
-git init - Create a new repo
-git status - View the changes to your project
-git add - Add files to staging area
-git commit - Creates a new commit with files from staging area
-git log - View recent commits
+##Production-ready boilerplate setup for quick React/Redux apps
+
+###Technology used:
+Frontend:
+- React with Redux
+
+Backend:
+- Firebase
+
+Tests:
+- Jest
+- Enzyme
+
+Deployment:
+- Webpack
+- yarn
+- Heroku
