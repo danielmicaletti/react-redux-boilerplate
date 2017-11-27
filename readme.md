@@ -1,8 +1,8 @@
-#React w/ Redux Boilerplate
+# React w/ Redux Boilerplate
 
-##Production-ready boilerplate setup for quick React/Redux apps
+## Production-ready boilerplate setup for quick React/Redux apps
 
-###Technology used:
+### Technology used:
 Frontend:
 - React with Redux
 
